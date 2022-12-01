@@ -19,7 +19,7 @@ mediante llamadas a sí misma.  -->
     echo "  <td> Machado </td>";
     echo "</tr>";
     echo "<td> " . "Ejercicio" . "</td>";
-    echo "<td> " . "anexo2-pag71-ej2" . "</td>";
+    echo "<td> " . "anexo2-pag71-ej6" . "</td>";
     echo "</tr>";
     echo "<td> " . "echo producto_iterativo(5, 3) . '<br>';
     echo producto_recursivo(5, 3) . '<br>';" . "</td>";
