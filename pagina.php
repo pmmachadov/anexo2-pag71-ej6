@@ -11,6 +11,25 @@
 ambas dos parámetros y devuelvan el producto de los valores dados. Se requiere que
 la primera calcule la multiplicación mediante sumas, y que la función segunda lo haga
 mediante llamadas a sí misma.  -->
+<?php
+    include 'funlib.php';
+    echo "<table border = 1>";
+    echo "<tr>";
+    echo "  <td> Pablo  </td>";
+    echo "  <td> Machado </td>";
+    echo "</tr>";
+    echo "<td> " . "Ejercicio" . "</td>";
+    echo "<td> " . "anexo2-pag71-ej2" . "</td>";
+    echo "</tr>";
+    echo "<td> " . "echo producto_iterativo(5, 3) . '<br>';
+    echo producto_recursivo(5, 3) . '<br>';" . "</td>";
+    echo "<td> " . "producto_iterativo
+    15    
+    producto_recursivo
+    15" . "</td>";
+    echo "</tr>";
+    echo "</table>";
+?>
 
 <?php
 require_once 'funlib.php';
